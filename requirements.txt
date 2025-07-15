@@ -1,0 +1,3 @@
+discord.py
+g4f
+flask
